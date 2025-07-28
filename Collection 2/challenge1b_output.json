@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance."
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Is the form fillable?",
+      "importance_rank": 1,
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Note:",
+      "importance_rank": 2,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Compliance Standard",
+      "importance_rank": 3,
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Interactive form",
+      "importance_rank": 4,
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Change flat forms to fillable (Acrobat Pro)",
+      "importance_rank": 5,
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Types of PDF forms",
+      "importance_rank": 6,
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "/ Acrobat Reader > Preferences (macOS).",
+      "importance_rank": 7,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Note: When you use this method, Acrobat applies the most recently used conversion settings without offering you access to those settings. If you want to adjust the conversion settings, do so before using this method.",
+      "importance_rank": 8,
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Create a blank PDF",
+      "importance_rank": 9,
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Convert Word and PowerPoint files to PDF",
+      "importance_rank": 10,
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Create a PDF and share via Outlook Applicable to Microsoft Word, Excel, and PowerPoint",
+      "importance_rank": 11,
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Convert clipboard content to PDF",
+      "importance_rank": 12,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Create a PDF and share the link for viewing or commenting Applicable to Microsoft Word, Excel, and PowerPoint",
+      "importance_rank": 13,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Show or activate PDFMaker in Microsoft Office and Lotus Notes",
+      "importance_rank": 14,
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Excel Workbook Settings",
+      "importance_rank": 15,
+      "page_number": 17
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "License deployment",
+      "importance_rank": 16,
+      "page_number": 17
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note: To specify the line width, color, and other properties before you draw, select the desired tool, and press Ctrl+E to open the properties toolbar. Set the desired options in the Properties toolbar.",
+      "importance_rank": 17,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Convert a file to PDF",
+      "importance_rank": 18,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "XML data signatures",
+      "importance_rank": 19,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Fill and sign PDF forms",
+      "importance_rank": 20,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Not all forms are fillable. Sometimes form creators don’t convert their PDFs to interactive fillable forms. Or, they intentionally design a form that you can fill in only by hand or with the Fill & Sign tool. These non-interactive forms are called flat forms.",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "The forms preferences apply to the way that the application handles open forms as you work. The preferences aren’t saved with the PDF forms themselves.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Specify the PDF/A or PDF/E compliance standard, or none.",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "To create an interactive form, use the Prepare Forms tool. See Create a form from an existing document.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "You can change a flat form to a fillable form by either using the Prepare Form tool or enabling the Fill & Sign tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool to fill in flat forms.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "• Interactive forms: These contain fields that you can select and fill in. • Flat forms: These do not have interactive fields. It could be a paper form or PDF that hasn’t been optimized for form filling. The Fill & Sign tool automatically detects the form fields like text fields,",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "2. In the Preferences dialog, select Forms as the preference category. 3. Under Auto-Complete, choose Basic or Advanced from the menu. 4. Select Remember Numerical Data if you want the Auto-Complete memory to store numbers that you type into forms.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "1. In Acrobat, select Create from the global bar. 2. The Create a PDF tool opens. On the leŌ rail, select MulƟple files > Create mulƟple",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "You can create a blank PDF, rather than beginning with a file, a clipboard image, or scanning. This process can be useful for creating a one-page PDF. For longer, more complex, or heavily formatted documents, it’s better to create the source document in an application that offers more layout and",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "1. Open a file in Word or PowerPoint. 2. Optionally, select objects and text (Word) or slides (PowerPoint), as needed. 3. (Office 2010) From the Acrobat ribbon, select Create PDF, Create And Attach to Email, or Create And Send For Review. 4. In the Save Adobe PDF File As dialog",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "1. Open the file in the application used to create it. 2. Do any of the following: • From the Home tab, choose Create PDF and Share via Outlook. • From the Acrobat tab, choose Create PDF and Share via Outlook. • Select File > Share > Email > Create",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "You can create PDFs from text and images that you copy from applications on macOS or Windows. 1. Capture content in the Clipboard: • Use the copy command in the applications. • Press the PrintScreen key (Windows). • Use the Screenshot utility (Applications > Utilities > Screenshot), and choose Edit",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "1. Open the file in the application used to create it. 2. Do any of the following: • From the Home tab, choose Create PDF and share link. • Select File > Share > Create PDF and share link > Create PDF and Share link. • Select File > Share",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "If the PDF toolbar buttons don’t appear in your Microsoft Office or Lotus Notes application, use one of the following methods to show or activate PDFMaker. For Lotus Notes 9, choose File > Preferences. In the dialog box that appears, choose Toolbar > Toolbars, and select the Visible option for",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Specifies whether to create a Worksheet for each table or page, or the entire document.",
+      "page_number": 17
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console. As an admin, you must add users to the Admin Console using one of the methods described in Adobe Admin Console users. You can choose to either select the users to assign or create product profiles",
+      "page_number": 17
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "2. Draw in the PDF: • To create a cloud or polygon shape, click to create the start point, move the pointer, and click to create each segment. To finish drawing the shape, click the start point, or right-click and choose Complete from the menu. Double-click to end a polygon",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "1. Open the file in the application used to create it. 2. Select the Convert To Adobe PDF button on the Acrobat PDFMaker toolbar. For Microsoft Office applications, such as Word, Excel, and PowerPoint, select the Create PDF button on the Acrobat ribbon. 3. Enter a filename and location for",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Acrobat and Acrobat Reader support XML data signatures that are used to sign data in XML Forms Architectures (XFA) forms. The form author provides XML signing, validating, or clearing instructions for form events, such as button click, file save, or submit. XML data signatures conform to the W3C XML-Signature standard.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "To complete and sign PDF forms, open the form in Acrobat and then select E-Sign from the global bar. Alternatively, you can select All tools > Fill & Sign. It displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign",
+      "page_number": 1
+    }
+  ]
+}
