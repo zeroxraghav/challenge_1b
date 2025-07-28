@@ -1,0 +1,31 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_002",
+        "test_case_name": "academic_research_review",
+        "description": "Preparing a literature review for GNNs in Drug Discovery"
+    },
+    "documents": [
+        {
+            "filename": "Chpter-1.pdf",
+            "title": "Graph Neural Networks for Drug Discovery - Paper 1"
+        },
+        {
+            "filename": "Chpter-2.pdf",
+            "title": "Graph Neural Networks for Drug Discovery - Paper 2"
+        },
+        {
+            "filename": "Chpter-3.pdf",
+            "title": "Graph Neural Networks for Drug Discovery - Paper 3"
+        },
+        {
+            "filename": "Chpter-4.pdf",
+            "title": "Graph Neural Networks for Drug Discovery - Paper 4"
+        }
+    ],
+    "persona": {
+        "role": "PhD Researcher in Computational Biology"
+    },
+    "job_to_be_done": {
+        "task": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks"
+    }
+}

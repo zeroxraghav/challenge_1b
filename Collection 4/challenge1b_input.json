@@ -1,0 +1,27 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_business_analysis",
+        "test_case_name": "competing_tech_analysis",
+        "description": "Analyzing annual reports for competing tech companies"
+    },
+    "documents": [
+        {
+            "filename": "Chapter-1.pdf",
+            "title": "Tech Company A Annual Report 2024"
+        },
+        {
+            "filename": "Chapter-2.pdf",
+            "title": "Tech Company B Annual Report 2024"
+        },
+        {
+            "filename": "Chapter-3.pdf",
+            "title": "Tech Company C Annual Report 2024"
+        }
+    ],
+    "persona": {
+        "role": "Investment Analyst"
+    },
+    "job_to_be_done": {
+        "task": "Analyze revenue trends, R&D investments, and market positioning strategies"
+    }
+}

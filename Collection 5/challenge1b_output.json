@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Chapter-1.pdf",
+      "Chapter-2.pdf",
+      "Chapter-3.pdf",
+      "Chapter-4.pdf",
+      "Chapter-5.pdf"
+    ],
+    "persona": "Undergraduate Chemistry Student",
+    "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics"
+  },
+  "extracted_sections": [
+    {
+      "document": "Chapter-3.pdf",
+      "section_title": "ESG Management The ESG Steering Committee is chaired by TSMC’s Chairman, while the Chairperson of the ESG committee serves as Executive Secretary, and senior executives from a wide variety of functions – all work together to examine ESG material issues in relation to the Company’s operations, set the short-, medium- and long-term strategic directions that link to the UN Sustainable Development Goals (SDGs).",
+      "importance_rank": 1,
+      "page_number": 76
+    },
+    {
+      "document": "Chapter-3.pdf",
+      "section_title": "ESG",
+      "importance_rank": 2,
+      "page_number": 12
+    },
+    {
+      "document": "Chapter-3.pdf",
+      "section_title": "5.5.1 Information Security Policy and Organization",
+      "importance_rank": 3,
+      "page_number": 55
+    },
+    {
+      "document": "Chapter-4.pdf",
+      "section_title": "Risk Management Taskforces (Representatives from each Fab/Division)",
+      "importance_rank": 4,
+      "page_number": 68
+    },
+    {
+      "document": "Chapter-2.pdf",
+      "section_title": "C. 10b5‐1 Trading Plan Pre‐Approval Process",
+      "importance_rank": 5,
+      "page_number": 114
+    },
+    {
+      "document": "Chapter-4.pdf",
+      "section_title": "5.6.1 Human Rights Policy and Specific Actions",
+      "importance_rank": 6,
+      "page_number": 57
+    },
+    {
+      "document": "Chapter-5.pdf",
+      "section_title": "Compliance Awareness Training Training is one of the major components of our regulatory compliance program. To get updated information on laws and regulations related to their daily operations and to strengthen TSMC’s employees’ commitment to regulatory compliance and ethical conduct through regular promotion and training courses. Highlights of our training include:",
+      "importance_rank": 7,
+      "page_number": 33
+    },
+    {
+      "document": "Chapter-5.pdf",
+      "section_title": "110 111",
+      "importance_rank": 8,
+      "page_number": 56
+    },
+    {
+      "document": "Chapter-2.pdf",
+      "section_title": "Definition and Limitations of Internal Control over Financial Reporting",
+      "importance_rank": 9,
+      "page_number": 50
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "Definition and Limitations of Internal Control over Financial Reporting",
+      "importance_rank": 10,
+      "page_number": 48
+    },
+    {
+      "document": "Chapter-5.pdf",
+      "section_title": "(Note) Total Remark",
+      "importance_rank": 11,
+      "page_number": 34
+    },
+    {
+      "document": "Chapter-3.pdf",
+      "section_title": "3.9.1 Audit Fees",
+      "importance_rank": 12,
+      "page_number": 33
+    },
+    {
+      "document": "Chapter-4.pdf",
+      "section_title": "Major Accomplishments In 2023, TSMC achieved several major accomplishments in regulatory compliance. Externally, in addition to fulfilling the Company’s obligations toward regulatory compliance matters, TSMC exercised its civic duties as a responsible corporate citizen by providing feedback on current regulations and regulations in legislation, with the intent to improve Taiwan’s industrial investment environment, enhance economic development, and help align domestic laws with international law. Furthermore, TSMC continues to focus on the topics related to the Company Law, the Securities and Exchange Act, intellectual property protection and environment protection. In addition, TSMC shared its practices and experiences on trade secrets, labor rights, regulatory compliance system and reporting channel with outside institutions.",
+      "importance_rank": 13,
+      "page_number": 33
+    },
+    {
+      "document": "Chapter-3.pdf",
+      "section_title": "Business Development",
+      "importance_rank": 14,
+      "page_number": 12
+    },
+    {
+      "document": "Chapter-4.pdf",
+      "section_title": "Board Management",
+      "importance_rank": 15,
+      "page_number": 68
+    },
+    {
+      "document": "Chapter-4.pdf",
+      "section_title": "ESG",
+      "importance_rank": 16,
+      "page_number": 12
+    },
+    {
+      "document": "Chapter-3.pdf",
+      "section_title": "Committee (Functional heads, VP level)",
+      "importance_rank": 17,
+      "page_number": 67
+    },
+    {
+      "document": "Chapter-4.pdf",
+      "section_title": "Notification",
+      "importance_rank": 18,
+      "page_number": 57
+    },
+    {
+      "document": "Chapter-4.pdf",
+      "section_title": "Risk Management Division",
+      "importance_rank": 19,
+      "page_number": 69
+    },
+    {
+      "document": "Chapter-5.pdf",
+      "section_title": "Three-Lines of Defense TSMC adopts the Three-Lines of Defense Model towards ensuring the adequacy and effectiveness of TSMC’s risk management system.",
+      "importance_rank": 20,
+      "page_number": 66
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Chapter-3.pdf",
+      "refined_text": "Society ●\u0001Arts events in the communities ●\u0001Sponsorship of youth development events ●\u0001Sponsorship of charity projects and emergency aid ●\u0001Sponsorship of non-profit organizations to support educational projects ●\u0001Professorship endowments and student scholarships at universities ●\u0001Project collaboration and visits ●\u0001Support of non-profit organizations and institutions via monetary and in-kind donation, as well",
+      "page_number": 76
+    },
+    {
+      "document": "Chapter-3.pdf",
+      "refined_text": "●\u0001Identify ESG issues in relation to the Company’s operations and stakeholders’ concern, frame sustainability strategies, goals, action",
+      "page_number": 12
+    },
+    {
+      "document": "Chapter-3.pdf",
+      "refined_text": "PIP & Cybersecurity Committee TSMC has established enterprise risk management mechanisms and procedures to handle information security incidents. The mechanisms and procedures define relevant processes and measures for incident notification, designation of personnel responsible for handling material information security incidents, and assessment of losses suffered as well as additional measures",
+      "page_number": 55
+    },
+    {
+      "document": "Chapter-4.pdf",
+      "refined_text": "●\u0001Defines key risk indicators (KRIs) to proactively monitor risk",
+      "page_number": 68
+    },
+    {
+      "document": "Chapter-2.pdf",
+      "refined_text": "Employees and Executive Officers of Broadcom are required to work with Broadcom’s designed broker for its equity plans on the preparation of a Trading Plan. The Trading Plan must be submitted for review by the Legal Team or the Compliance Officer at least one (1) week prior to the proposed",
+      "page_number": 114
+    },
+    {
+      "document": "Chapter-4.pdf",
+      "refined_text": "●\u0001Training and Advocacy TSMC develops human rights protection training to establish awareness and develop a culture of respecting human rights. Through such training, the Company informs employees about human rights concepts and their importance, accessible grievance channels to all, and TSMC’s measures for the management, prevention, and remediation of human",
+      "page_number": 57
+    },
+    {
+      "document": "Chapter-5.pdf",
+      "refined_text": "●\u0001Multiple types for training and promotion: TSMC enriches employees’ information sources for regulatory compliance through responsibility to strive to procure conflict-free minerals in an effort to recognize humanitarian and ethical social principles that protect the dignity of all persons. Meanwhile, we have implemented a series of compliance safeguards in accordance",
+      "page_number": 33
+    },
+    {
+      "document": "Chapter-5.pdf",
+      "refined_text": "Global Security Management Organization Structure date of this Annual Report, TSMC has not suffered any financial losses nor experienced any operational impact due to material information security incidents. Board of Directors the due diligence process by embedding responsible business practices into its policies and management systems, regularly identifying and assessing",
+      "page_number": 56
+    },
+    {
+      "document": "Chapter-2.pdf",
+      "refined_text": "A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that",
+      "page_number": 50
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that",
+      "page_number": 48
+    },
+    {
+      "document": "Chapter-5.pdf",
+      "refined_text": "Deloitte & Touche Shih-Tsung Wu and Shang-Chih Lin 01/01/2024~12/31/2024 72,175 9,186 81,361 - Regulations Governing the Establishment of Internal Control Systems by Public Companies (herein below, the “Regulations”). The criteria adopted by the Regulations identify five key components of managerial internal control: (1) control environment, (2) risk assessment, (3) control",
+      "page_number": 34
+    },
+    {
+      "document": "Chapter-3.pdf",
+      "refined_text": "Regulations Governing the Establishment of Internal Control Systems by Public Companies (herein below, the “Regulations”). The criteria adopted by the Regulations identify five key components of managerial internal control: (1) control environment, (2) risk assessment, (3) control activities, (4) information and communication, and (5) monitoring activities. Each component also includes",
+      "page_number": 33
+    },
+    {
+      "document": "Chapter-4.pdf",
+      "refined_text": "Internally, TSMC provides multiple courses about legal and regulatory compliance. The important achievements are as follows: internal control system. Internal control system is designed to provide reasonable assurance over the effectiveness and efficiency of our operations (including profitability, performance and safeguarding of assets), reliability, timeliness, transparency and regulatory compliance of",
+      "page_number": 33
+    },
+    {
+      "document": "Chapter-3.pdf",
+      "refined_text": "properties, and litigation ●\u0001Identification of market trends and new applications that shape the technology roadmap and portfolios for the Company; also provides key support in strengthening customer relationships along with Company branding management",
+      "page_number": 12
+    },
+    {
+      "document": "Chapter-4.pdf",
+      "refined_text": "Following a five-step risk management process – identification, assessment, response, monitoring and review, risks assessments are performed by key functional units to form an enterprise-level risk map and mitigation plans, which are presented to the Audit and Risk Committee. This process is supported by ongoing education and awareness efforts in",
+      "page_number": 68
+    },
+    {
+      "document": "Chapter-4.pdf",
+      "refined_text": "products by resolving issues at the developmental stage; improving and managing product quality at the production stage; providing solutions to customers’ quality related issues; and providing services for advanced materials and failure analysis ●\u0001Identify ESG issues in relation to the Company’s operations",
+      "page_number": 12
+    },
+    {
+      "document": "Chapter-3.pdf",
+      "refined_text": "activities to ensure that risks are adequately & effectively mitigated, including collaboration with Risk Management Division and various parties. 4. \u0001Defines key risk indicators (KRIs) to proactively monitor risk",
+      "page_number": 67
+    },
+    {
+      "document": "Chapter-4.pdf",
+      "refined_text": "●\u0001Communication and Disclosure TSMC identifies affected individuals on a case-by-case basis based on salient human rights issues to build a solid, trusting relationship, and listens to the voices of stakeholders through diverse, open, and two-way communication channels. The Company regularly discloses human rights management goals, actions, performance, and progress on",
+      "page_number": 57
+    },
+    {
+      "document": "Chapter-4.pdf",
+      "refined_text": "AI continues to evolve, cyber-attackers could also use AI to develop malicious codes and sophisticated phishing attempts. ●\u0001Assists the Board in establishing and overseeing a proactive and effective mechanism of risk management and business continuity, including risk appetite and tolerance, risk strategy and management framework, policy, and procedures. ●\u0001Strengthens risk",
+      "page_number": 69
+    },
+    {
+      "document": "Chapter-5.pdf",
+      "refined_text": "steering committee and reports back to the committee on the progress, effectiveness, and lessons learned. To mitigate the operational impact of crisis events, the risk management division implements pre-crisis risk assessment, response procedures and recovery plans. Exercises and drills are also conducted to validate emergency responses, crisis management, business continuity",
+      "page_number": 66
+    }
+  ]
+}

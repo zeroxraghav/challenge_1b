@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Chapter-1.pdf",
+      "Chapter-2.pdf",
+      "Chapter-3.pdf"
+    ],
+    "persona": "Investment Analyst",
+    "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies"
+  },
+  "extracted_sections": [
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "E",
+      "importance_rank": 1,
+      "page_number": 11
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "Combustion Chemistry",
+      "importance_rank": 2,
+      "page_number": 0
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "Hai Wang Stanford University 2015 Princeton-CEFRC Summer School On Combustion",
+      "importance_rank": 3,
+      "page_number": 0
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "Course Length: 3 hrs",
+      "importance_rank": 4,
+      "page_number": 0
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "June 22 – 26, 2015",
+      "importance_rank": 5,
+      "page_number": 0
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "Copyright ©2015 by Hai Wang This material is not to be sold, reproduced or distributed without prior written",
+      "importance_rank": 6,
+      "page_number": 0
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "permission of the owner, Hai Wang.",
+      "importance_rank": 7,
+      "page_number": 0
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "Lecture 3",
+      "importance_rank": 8,
+      "page_number": 1
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "3. Basic Chemical Kinetics In Lecture 1, we learned that thermodynamics determines the “ideal” end state of a reaction process. It does not tell us, however, how fast the reaction proceeds and whether under a particular reaction condition, the reaction can proceed to the equilibrium state. Answers to these questions are left to chemical kinetics. This is the topic of the current lecture. 3.1. Chemical Reaction Rate 3.1.1 Global Versus Elementary Reactions So far all reactions we have discussed are called global reactions. These reactions described an overall process by which reactants are converted to anticipated products at the end of the process. They do not describe the actual physical process. Take, for example, the simple reaction of hydrogen oxidation:",
+      "importance_rank": 9,
+      "page_number": 1
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "3.1.2 Elementary Reaction Type and Reaction Rates As we discussed above, elementary reactions have two key characteristics. First, the reactant molecules will have to physically collide with each other for the reaction to take place. Second the reaction must be reversible. There are only a few types of reactions that satisfy these criteria. The first type of elementary reactions is known as the unimolecular reaction, which involves only one reactant: A → products. (3.1) Examples include bond breaking reactions and isomerization reactions. As we will learn later, a unimolecular reaction actually requires collision so the first criterion is not violated. The rate of the above reaction is proportional to the molar concentration of A, i.e.,",
+      "importance_rank": 10,
+      "page_number": 2
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "Figure 3.1 Free radical chain reactions in H2 and Br2 reactions.",
+      "importance_rank": 11,
+      "page_number": 5
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "Figure 3.2 The pressure dependence of the rate constant of a unimolecular reaction.",
+      "importance_rank": 12,
+      "page_number": 9
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "[M] or p",
+      "importance_rank": 13,
+      "page_number": 9
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "Figure 3.3 Arrhenius plot of rate constant versus 1/T.",
+      "importance_rank": 14,
+      "page_number": 10
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "1/T (1/K)",
+      "importance_rank": 15,
+      "page_number": 10
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "3.1.7 The Arrhenius Law Reaction rate constants of most reactions are strongly dependent on temperature. This dependency is given by the Arrhenius law as",
+      "importance_rank": 16,
+      "page_number": 10
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "B(E)",
+      "importance_rank": 17,
+      "page_number": 11
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "B(E)",
+      "importance_rank": 18,
+      "page_number": 11
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "B(E)",
+      "importance_rank": 19,
+      "page_number": 11
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "section_title": "Ea",
+      "importance_rank": 20,
+      "page_number": 11
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "with* # & . k cm3 mol-s ( ) = 2.65×1016T −0.671exp − 71.3 kJ/mol ( ) RuT $ % % ' ( ( we may calculate that k(1200 K) = 1.8×1011 (cm3/mol-s) and k(1400 K) = 4.5×1011 (cm3/mol-s). Therefore a 17% increase in temperature causes a factor of 2.5",
+      "page_number": 11
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "",
+      "page_number": 0
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "",
+      "page_number": 0
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "",
+      "page_number": 0
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "",
+      "page_number": 0
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "",
+      "page_number": 0
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "",
+      "page_number": 0
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "2 H2 + O2 → 2 H2O . Physically this reaction is almost impossible since it would require two H2 molecules and one O2 molecules to simultaneously collide, and while they collide the three molecules have align themselves in a way that two water molecules may be produced. Statistically this",
+      "page_number": 1
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "− = k A \"# $% . (3.2) d A \"# $% dt Here the bracket [] denotes molar concentration (mol/cm3) and the proportionality k (1/s) is the reaction rate constant. If A is the only species in the reactor and k is a constant during the reaction process, the",
+      "page_number": 2
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "The chain reaction sequence starts with step (3.19f), which produces the Br • atoms. This step is called the chain initiation step. The Br• atom is a free radical species and is extremely reactive. It can readily attack one of the reactants, i.e., molecular hydrogen (H2), to yield HBr and",
+      "page_number": 5
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "",
+      "page_number": 9
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "where the subscript denotes the low-pressure limit. Here we note that at this low-pressure limit, the rate constant of a unimolecular reaction is proportional to pressure, as discussed in section 3.1.2 and shown in Figure 3.2. Conversely, at the high-pressure limit M !\" #$→∞ and we have kuni,∞= k28 k27",
+      "page_number": 9
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "\" % k = Aexp −Ea # $$ & '' , (3.37) RuT where A is called the pre-exponential factor and Ea (kJ/mol) is the activation energy. The units of A are 1/s, cm3/mol-s, and cm6/mol2-s for unimolecular, bimolecular and termolecular reactions, respectively. Paradoxically the rate constant is not a",
+      "page_number": 10
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "T 2 > T 1 T 2 > T 1 T 1 T 1 T 2 T 2",
+      "page_number": 11
+    },
+    {
+      "document": "Chapter-1.pdf",
+      "refined_text": "",
+      "page_number": 11
+    }
+  ]
+}

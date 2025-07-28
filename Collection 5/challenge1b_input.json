@@ -1,0 +1,35 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_educational_content",
+        "test_case_name": "chemistry_exam_prep",
+        "description": "Identifying key concepts for an organic chemistry exam"
+    },
+    "documents": [
+        {
+            "filename": "Chapter-1.pdf",
+            "title": "Organic Chemistry - Chapter 1: Structure and Bonding"
+        },
+        {
+            "filename": "Chapter-2.pdf",
+            "title": "Organic Chemistry - Chapter 2: Alkanes"
+        },
+        {
+            "filename": "Chapter-3.pdf",
+            "title": "Organic Chemistry - Chapter 3: Alkenes and Alkynes"
+        },
+        {
+            "filename": "Chapter-4.pdf",
+            "title": "Organic Chemistry - Chapter 4: Stereochemistry"
+        },
+        {
+            "filename": "Chapter-5.pdf",
+            "title": "Organic Chemistry - Chapter 5: Reaction Kinetics"
+        }
+    ],
+    "persona": {
+        "role": "Undergraduate Chemistry Student"
+    },
+    "job_to_be_done": {
+        "task": "Identify key concepts and mechanisms for exam preparation on reaction kinetics"
+    }
+}
